@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Variaveis de Ambiente IVZ", "Variaveis de ambiente\Variaveis de Ambiente IVZ.vbproj", "{AB630130-8F08-49B9-A7EE-6D559FABCEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB630130-8F08-49B9-A7EE-6D559FABCEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB630130-8F08-49B9-A7EE-6D559FABCEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB630130-8F08-49B9-A7EE-6D559FABCEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB630130-8F08-49B9-A7EE-6D559FABCEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FD7FA4-2F60-411C-A375-3F48003069C3}
+	EndGlobalSection
+EndGlobal
